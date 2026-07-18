@@ -1,5 +1,3 @@
-
-branching
 monster-odyssey/
 │
 ├── README.md
